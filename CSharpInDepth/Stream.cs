@@ -8,7 +8,7 @@ using System.IO;
 
 namespace CSharpInDepth
 {
-    public class Class1
+    public class Stream
     {
         
 

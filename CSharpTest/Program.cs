@@ -12,7 +12,7 @@ namespace CSharpTest
     {
         static void Main(string[] args)
         {
-            Class1 test = new Class1();
+            Stream test = new Stream();
             test.test();
         }
     }
